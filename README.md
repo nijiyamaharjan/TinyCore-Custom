@@ -12,3 +12,5 @@ This repository contains the results of a detailed case study on Tiny Core Linux
 4. Custom Default Icons
 5. Custom Wallpaper
 6. Custom Aliases for Commands
+
+The custom ISO can be downloaded here : https://drive.google.com/file/d/1HpQMePnqq2oFZi9oYsIkoHthmckOzinv/view?usp=sharing
